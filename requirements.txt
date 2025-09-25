@@ -6,3 +6,6 @@ langgraph
 langchain-google-genai
 qdrant-client
 langchain-qdrant
+llmsherpa
+yfiles-jupyter-graphs-for-neo4j
+neo4j
